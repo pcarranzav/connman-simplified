@@ -102,4 +102,5 @@ Licensed under the MIT License
 
 Author
 ------------
-Peter Uithoven @ Doodle3D
+Original author: Peter Uithoven @ Doodle3D
+This fork maintained by [Pablo Carranza](http://github.com/pcarranzav)
