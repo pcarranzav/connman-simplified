@@ -1,6 +1,6 @@
 {
   "name": "connman-simplified-resin",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Node.js package that simplifies Connman (Opensource connection manager) usage. Uses connman-api.",
   "keywords": [
     "internet",
@@ -8,7 +8,7 @@
     "client",
     "connection manager",
     "network",
-    "api", 
+    "api",
     "managment"
   ],
   "main": "./lib/index.js",
