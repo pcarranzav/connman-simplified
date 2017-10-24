@@ -1,3 +1,6 @@
+NOTE: This fork was meant for use in resin.io devices, but it **only works on ResinOS 1.X**. ResinOS 2.0 and higher
+don't use connman at all.
+
 Connman simplified
 ===================
 
